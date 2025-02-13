@@ -1,0 +1,34 @@
+Questions on the Customers Table:
+What percentage of customers are "Retail" versus "Wholesale"?
+Which location has the highest number of customers?
+What is the average time (in days) between a customer joining and their first order?
+Which customers joined the store in the last six months?
+What is the most common email domain used by customers (e.g., Gmail, Yahoo)?
+What is the distribution of customer types (Retail vs. Wholesale) by location?
+Who are the top 10 oldest customers (based on join date)?
+How many customers joined the hardware store in each year since the database was established?
+What percentage of customers have phone numbers starting with a specific area code (e.g., "+1-100")?
+How many customers belong to each location, and how does this affect their order frequency?
+Questions on the Products Table:
+Which product category has the highest average price?
+What is the average stock quantity for products in each category?
+Which supplier provides the most products, and in which categories?
+What percentage of products have a GST percentage of 18%?
+What is the price distribution (low, medium, high) across all product categories?
+Which products have less than 10 units in stock and need replenishment?
+Which warranty period is the most common for products in the hardware store?
+Which products have the highest price in each category?
+What is the total value of stock for each category (Price × StockQuantity)?
+What percentage of the products belong to "Power Tools" compared to other categories?
+Questions on the Orders Table:
+What is the average total price (before and after tax) for orders placed in the last year?
+Which delivery status (Pending, Shipped, Delivered) has the highest count?
+What is the total revenue (after tax) generated from orders in the last month?
+How many orders are unpaid, and what is their total value?
+What is the average GST amount for orders placed by "Wholesale" customers?
+Which customers placed the most orders in the past year?
+Which product generated the highest revenue, and how many units were sold?
+How does order volume vary by month throughout the year?
+What is the total tax amount collected from all orders placed in the database?
+Which location has the highest order volume, and what is its contribution to total revenue?
+These questions will help in deriving actionable insights about customer behavior, product performance, and order trends within the hardware store. Let me know if you'd like further customization or analysis!
